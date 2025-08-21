@@ -1,12 +1,7 @@
-<div align="center">
-
 # Halo, Saya Ahmad Fauzi!
 
-![Foto](https://github.com/vuzinet/vuzinet/image/psht.png)
-
-</div>
-
-...
+- <p> Mau tak paranin?!🤬 </p>
+<img src="https://github.com/vuzinet/vuzinet/blob/main/image/psht.png" width="200" alt="Foto Profil">
 
 <br>
 
@@ -16,7 +11,7 @@ Seorang pembelajar yang bersemangat di dunia pemrograman. Saya percaya bahwa den
 
 ### 💻 Keahlian dan Teknologi
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
