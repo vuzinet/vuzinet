@@ -2,9 +2,11 @@
 
 # Halo, Saya Ahmad Fauzi!
 
-![GitHub](https://avatars.githubusercontent.com/u/9919?s=200&v=4)
+![Foto](https://github.com/vuzinet/vuzinet/image/psht.png)
 
 </div>
+
+...
 
 <br>
 
