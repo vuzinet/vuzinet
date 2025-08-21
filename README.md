@@ -1,6 +1,6 @@
 # Halo, Saya Ahmad Fauzi!
 
-- <p> Mau tak paranin?!🤬 </p>
+- <p> Serlok tak parani🤬 </p>
 <img src="https://github.com/vuzinet/vuzinet/blob/main/image/psht.png" width="200" alt="Foto Profil">
 
 <br>
