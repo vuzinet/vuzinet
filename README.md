@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vuzinet/vuzinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Halo, Saya Ahmad Fauzi!
 
-Here are some ideas to get you started:
+![GitHub](https://avatars.githubusercontent.com/u/9919?s=200&v=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+Seorang pembelajar yang bersemangat di dunia pemrograman. Saya percaya bahwa dengan bantuan yang tepat, setiap orang bisa memahami cara kerja teknologi.
+
+---
+
+### 💻 Keahlian dan Teknologi
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+</p>
+
+---
+
+### 📈 Statistik GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vuzinet&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Hubungi Saya
+
+<p align="center">
+  <a href="mailto:vuzinet@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
